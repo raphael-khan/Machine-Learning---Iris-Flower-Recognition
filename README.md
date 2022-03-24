@@ -8,3 +8,6 @@ Technologies Used:
   * scikit learn lib.
   * joblib. 
   * jupyter notebook. 
+
+
+![image](https://user-images.githubusercontent.com/89990638/159824731-8876501b-eabb-48b2-89f4-5dc5cf51d7e0.png)
