@@ -1,4 +1,4 @@
-# Machine Learning - Iris Flower Recognition
+# SciKit Learn image_prediction. 
 
 Imports the Iris dataset from scikit learn and spilts the data into train set and test set. The sets are then ran through the kNeighboursClassfier to create a prediction model. 
 
