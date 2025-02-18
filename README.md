@@ -1,11 +1,11 @@
 # SciKit Learn image_prediction. 
 
-Imports the Iris dataset from scikit learn and spilts the data into train set and test set. The sets are then ran through the kNeighboursClassfier to create a prediction model. 
+Imports the Iris dataset from scikit-learn and spilts the data into 50% train and 50% test set. The sets are then ran through the kNeighboursClassfier to create a prediction model. 
 
 Prediction model is dumped using joblib. And can be used to easy access for future predictions. 
 
 Technologies Used:
-  * scikit learn lib.
+  * scikit-learn.
   * joblib. 
   * jupyter notebook. 
 
